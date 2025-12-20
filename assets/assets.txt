@@ -1,0 +1,14 @@
+circles/red.png
+circles/white.png
+font/font.fnt
+font/font.png
+pixels/black.png
+pixels/dark_gray.png
+pixels/gray.png
+pixels/red.png
+pixels/white.png
+record.txt
+sounds/click.wav
+sounds/coin.wav
+sounds/explosion.wav
+sounds/hit.wav
