@@ -11,3 +11,4 @@ A game developed in Java using the libGDX framework.
 2. Copy the contents of the `core` and `assets` directory from this repository into the directory of your generated project.
 3. Open in your IDE and run.
 
+Or play in bowser on [itch.io](https://ostapkondur.itch.io/flappy-circle).
