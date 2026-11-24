@@ -1,0 +1,9 @@
+[package]
+name = "flappy-circle"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4"
+roxmltree = "0.20"
+webbrowser = "1"
